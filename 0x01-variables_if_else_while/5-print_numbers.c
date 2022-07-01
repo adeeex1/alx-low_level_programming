@@ -11,5 +11,5 @@ int main(void)
 
 	for (number = 0; number < 10; number++)
 		printf("%d\n", number);
-	return (0)
+	return (0);
 }
