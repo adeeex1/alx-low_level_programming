@@ -1,1 +1,1 @@
-Thisdirectory is about if else while in ALX software engineering school 
+This directory is about if else while in ALX software engineering school 
