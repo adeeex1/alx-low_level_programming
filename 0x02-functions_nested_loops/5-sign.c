@@ -2,7 +2,7 @@
 
 /**
  * print_sign - print character to c stdio
- * @c: checks a character
+ * @n: checks a character
  *
  * Return: always 0
  */
