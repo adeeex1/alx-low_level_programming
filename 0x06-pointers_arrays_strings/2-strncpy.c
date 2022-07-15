@@ -3,7 +3,7 @@
 /**
  * _strncpy - entry point
  * @src: enter value
- * @dest: enter value 
+ * @dest: enter value
  * @n: enter value
  *
  * Return: always 0
